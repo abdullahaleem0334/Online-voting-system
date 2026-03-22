@@ -130,5 +130,3 @@ online-voting-system/
 ---
 
 ⭐ If you found this helpful, please give it a star!
-
-GitHub pe README.md mein paste karo! 🚀
